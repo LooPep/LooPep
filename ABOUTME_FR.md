@@ -1,8 +1,8 @@
-# About : Loïc Biscarat  
+# <p align="center">About : Loïc Biscarat</p>
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://avatars.githubusercontent.com/u/117925961?s=400&u=a5ad3bbecedfb502979edffb066f7303ab611e07&v=4">
-</div>
+</p>
 
 <br>
 
@@ -10,15 +10,17 @@
 
 <br>
 
-## À propos de moi
+## :pushpin: À propos de moi
 
-**Bonjour à tous ! Je suis Loïc, passionné par les domaines de l'informatique et de la cybersécurité. Avec une fascination pour l'OSINT, j'adore en apprendre davantage chaque jour.**
+**Bonjour à tous !** :wave:	 
+
+**Je suis Loïc, passionné par les domaines de l'informatique et de la cybersécurité. Avec une fascination pour l'OSINT, j'adore en apprendre davantage chaque jour.**
 
 **Par ailleurs, je suis également passionné par l'art et la musique, la mode et fervent amateur de jeux vidéo.**
 
 <br>
 
-### 3 HARD SKILLS
+### :wrench: 3 HARD SKILLS
 
 - *Maîtrise du langage Python*
 - *Maîtrise des OS Windows & des distributions Linux*
@@ -26,8 +28,7 @@
 
 <br>
 
-### 3 SOFT SKILLS 
-
+### :brain: 3 SOFT SKILLS  
 - *Curieux*
 - *Autodidacte*
 - *Persévérant*
@@ -38,7 +39,7 @@
 
 <br>
 
-## Expériences professionnelles
+## :gear: Expériences professionnelles
 
 - ### **GEG, Alternant Ingénieur SI Junior (2022 - Aujourd'hui)**
 
@@ -53,7 +54,7 @@
 
 <br>
 
-## Formations académiques
+## :open_book: Formations académiques
 
 - **Master**, *Manager en Infrastructure et Cybersécurité des SI* (2022-Aujourd'hui) - *BAC+5*
 
@@ -71,39 +72,39 @@
 
 <br>
 
-## Projets personnels 
+## :bulb: Projets personnels 
 
-### PRUDE (2023 - Aujourd'hui)
+- ### PRUDE (2023 - Aujourd'hui)
 
-**Création d'un outils d'OSINT - SOCMINT :**
+    **Création d'un outils d'OSINT - SOCMINT :**
+    
+    - **People search** : *Search for a person, a username, a domain, or file appearances on a list of websites, defined by categories, using Dorks through DuckDuckGo.*
+    
+    - **Databases search** : *Search for a person, a username, an email, or a phone number's appearances in hacked databases or sex offenders/criminal registries.*
+    
+    - **Net search** : *Search for complete information on an IP/MAC address, ASN number, domain, or website.*
+    
+    > Lien du dépot : https://github.com/NotLoBi/Prude/
+    
+    > 100% Python   
 
-- **People search** : *Search for a person, a username, a domain, or file appearances on a list of websites, defined by categories, using Dorks through DuckDuckGo.*
-
-- **Databases search** : *Search for a person, a username, an email, or a phone number's appearances in hacked databases or sex offenders/criminal registries.*
-
-- **Net search** : *Search for complete information on an IP/MAC address, ASN number, domain, or website.*
-
-> Lien du dépot : https://github.com/NotLoBi/Prude/
-
-> 100% Python   
-
-<div style="text-align: center;">
-    <img src="https://img.shields.io/badge/Open_Source-YES-black" alt="Open Source">
-    <img src="https://img.shields.io/badge/Full_Python-black?logo=python" alt="Full Python">
-    <img src="https://img.shields.io/badge/OSINT-PRUDE-black" alt="Prude">
-</div>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/Open_Source-YES-black" alt="Open Source">
+        <img src="https://img.shields.io/badge/Full_Python-black?logo=python" alt="Full Python">
+        <img src="https://img.shields.io/badge/OSINT-PRUDE-black" alt="Prude">
+    </div>
 
 <br>
 
-### Financial Analysis (2024 - Aujourd'hui)
+- ### Financial Analysis (2024 - Aujourd'hui)
 
-**Création d'un outils d'analyse financière d'un marché global, d'un domaine et d'une entreprise dans le cadre d'une analyse fondamentale boursière (utilisation de la bibliothèque yfiance).**
-
-> 100% Python
-
-<div style="text-align: center;">
-    <img src="https://img.shields.io/badge/Full_Python-black?logo=python" alt="Full Python">
-</div>
+    **Création d'un outils d'analyse financière d'un marché global, d'un domaine et d'une entreprise dans le cadre d'une analyse fondamentale boursière (utilisation de la bibliothèque yfiance).**
+    
+    > 100% Python
+    
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/Full_Python-black?logo=python" alt="Full Python">
+    </div>
 
 <br>
 
@@ -111,11 +112,13 @@
 
 <br>
 
-## Mes liens
+## :link: Mes liens :
 
-  - [LinkedIn](https://www.linkedin.com/in/lo%C3%AFc-biscarat-62b85b1bb/)
-  - [GitHub (PRUDE)](https://github.com/NotLoBi/Prude/)
-  - [TryHackMe](https://tryhackme.com/p/LooPep)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lo%C3%AFc-biscarat-62b85b1bb/)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/NotLoBi)
+[![TryHackMe](https://img.shields.io/badge/tryhackme-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/LooPep)
+
+<br>
 
 **N'hésitez pas à me contacter pour toute collaboration ou opportunité professionnelle !**
 
