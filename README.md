@@ -17,7 +17,7 @@
 
 <p dir="auto;">
     <a href="img/paradise_lost.jpg">
-        <img align="right" src="img/paradise_lost.jpg" style="width:35%; height: auto;">
+        <img align="right" src="img/paradise_lost.jpg" style="width:40%; height: auto;">
     </a>
     <hr>
     <div style="text-align: left;">
@@ -49,8 +49,8 @@
             <img  src="https://img.shields.io/badge/VirtualBox-black?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="Vbox">
             <img  src="https://img.shields.io/badge/VMware-black?style=for-the-badge&logo=VMware&logoColor=white" alt="Vmware">
             <img  src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+            <p></p><i>&ensp;&ensp;If you are interested in OSINT, check out my other GitHub account below !</i></p>
         <hr>
-        <p><i>&emsp;&emsp;&emsp;If you are interested in OSINT, check out my other GitHub account below !</i></p>
     </div>
     
 <br><br>
