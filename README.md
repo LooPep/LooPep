@@ -52,7 +52,7 @@
         <hr>
     </div>
     
-<br><br>
+<br><br><br>
 
 <div align="center">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/lo%C3%AFc-biscarat-62b85b1bb/" alt=Linkedin>
