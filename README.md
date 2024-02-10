@@ -17,7 +17,7 @@
 
 <p dir="auto;">
     <a href="img/paradise_lost.jpg">
-        <img align="right" src="img/paradise_lost.jpg" style="width:40%; height: auto;">
+        <img align="right" src="img/paradise_lost.jpg" style="width:50%; height: auto;">
     </a>
     <hr>
     <div style="text-align: left;">
@@ -55,13 +55,11 @@
     
 <br><br>
 
-<hr>
 <div align="center">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/lo%C3%AFc-biscarat-62b85b1bb/" alt=Linkedin>
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" href="https://github.com/NotLoBi" alt=Github>
     <img src="https://img.shields.io/badge/tryhackme-black?style=for-the-badge&logo=tryhackme" href="https://tryhackme.com/p/LooPep" alt=Tryhackme>
     <p><strong><i>Feel free to contact me for any collaboration or professional opportunity!</i></strong></p>
 </div>
-<hr>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:e3e3e3,100:666666&section=footer" style="max-width: 100%;">
