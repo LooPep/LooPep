@@ -49,7 +49,6 @@
             <img  src="https://img.shields.io/badge/VirtualBox-black?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="Vbox">
             <img  src="https://img.shields.io/badge/VMware-black?style=for-the-badge&logo=VMware&logoColor=white" alt="Vmware">
             <img  src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-            <p></p><i>&ensp;&ensp;If you are interested in OSINT, check out my other GitHub account below !</i></p>
         <hr>
     </div>
     
@@ -60,6 +59,7 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" href="https://github.com/NotLoBi" alt=Github>
     <img src="https://img.shields.io/badge/tryhackme-black?style=for-the-badge&logo=tryhackme" href="https://tryhackme.com/p/LooPep" alt=Tryhackme>
     <p><strong><i>Feel free to contact me for any collaboration or professional opportunity!</i></strong></p>
+    <p></p><i>If you are interested in OSINT, check out my other GitHub account above !</i></p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:e3e3e3,100:666666&section=footer" style="max-width: 100%;">
