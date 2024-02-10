@@ -9,7 +9,7 @@
    <p><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />&ensp;<strong>Hi ! I'm Lo !</strong></h3></p>
    <p>&emsp;&emsp; :desktop_computer:  -  <i>Technology, cybersecurity and OSINT enthusiast</i></p>
    <p>&emsp;&emsp; :dizzy:  -  <i>fond of both art and fashion</i></p>
-   <p>&emsp;&emsp; :brain:  -  <i>curious, autodidact and perseverant</i></p>
+   <p>&emsp;&emsp; :brain:  -  <i>curious, quick learner and perseverant</i></p>
    <hr>
 </p>
 
