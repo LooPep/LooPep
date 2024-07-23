@@ -57,6 +57,7 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/lo%C3%AFc-biscarat-62b85b1bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
     <a href="https://tryhackme.com/p/LooPep" target="_blank"><img src="https://img.shields.io/badge/tryhackme-black?style=for-the-badge&logo=tryhackme" alt="Tryhackme"></a>
+    <a href="https://github.com/NotLoBi" target="_blank"><img src="https://img.shields.io/badge/github_OSINT-black?style=for-the-badge&logo=github" alt="GitHub"></a>
     <br>
     <p><strong><i>Feel free to contact me for any collaboration or professional opportunity!</i></strong></p>
 </div>
